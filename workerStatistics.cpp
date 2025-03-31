@@ -109,7 +109,7 @@ private:
 
 };
 
-std::string ProductionWorker::JobTitle = "Production Worker";
+std::string ProductionWorker::JobTitle = "Production Worker";   // Definitions for static job titles.
 std::string TeamLeader::JobTitle = "Team Leader";
 
 int main()
