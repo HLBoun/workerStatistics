@@ -1,5 +1,5 @@
 /*
- * Filename: workerPayCalc.cpp
+ * Filename: workerStatistics.cpp
  * Name: Huthsady Legend Boun
  * Professor: Grace A. Comp
  * Class: Comp Sci II
